@@ -1,2 +1,4 @@
+Deployed version : https://murmuring-forest-98404.herokuapp.com/
+
 # Drumkit
-used DOM to detect key press or key click.
+Vanilla javascript application.
